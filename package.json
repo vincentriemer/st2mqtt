@@ -1,0 +1,20 @@
+{
+  "private": true,
+  "name": "st2mqtt",
+  "type": "module",
+  "dependencies": {
+    "croner": "^8.0.1",
+    "invariant": "^2.2.4",
+    "mqtt": "^5.3.5",
+    "puppeteer-core": "^22.1.0",
+    "zen-observable": "^0.10.0"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.0.6",
+    "@types/invariant": "^2.2.37",
+    "@types/mqtt": "^2.5.0",
+    "@types/node": "^20.11.19",
+    "@types/zen-observable": "^0.8.7",
+    "typescript": "^5.3.3"
+  }
+}
